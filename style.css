@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: grey;
+}
+h1{
+    line-height: 75px;
+    background-color: aqua;
+    text-align: center;
+}
+p{
+    color: goldenrod;
+
+}
+
+p{
+    margin-top:  55px;
+}
+
+.ul{
+     text-decoration: none;
+     color: blue;
+     cursor: pointer;
+     justify-content: flex-end;
+
+}
